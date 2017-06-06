@@ -16,5 +16,3 @@
   ---------
     ![scan操作1.png](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/scan.jpg)
     ![scan操作2.png](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/scan1.jpg)
-
-![test](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/scan.jpg)
