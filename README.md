@@ -11,7 +11,7 @@
   get操作
   -------
 
-    ![get操作.jpg](https://github.com/halu886/legalDocument/blob/master/legalDocument/img-folder/get.jpg)
+    ![get操作.jpg](https://github.com/halu886/legalDocument/raw/master/legalDocument/img-folder/get.jpg)
   scan操作
   ---------
     ![scan操作1.png](https://github.com/halu886/legalDocument/blob/master/legalDocument/img-folder/scan.jpg)
