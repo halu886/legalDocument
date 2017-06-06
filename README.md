@@ -16,3 +16,5 @@
   ---------
     ![scan操作1.png](https://github.com/halu886/legalDocument/blob/master/legalDocument/img-folder/scan.jpg)
     ![scan操作2.png](https://github.com/halu886/legalDocument/blob/master/legalDocument/img-folder/scan1.jpg)
+    
+    [![baidu]](http://baidu.com) 
