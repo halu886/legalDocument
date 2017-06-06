@@ -9,10 +9,8 @@
   * 开发Web应用对分析结果或查询结果进行展示。<br>
   
   get操作
-  -------
-
     ![get操作.jpg](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/get.jpg)
+    
   scan操作
-  ---------
     ![scan操作1.png](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/scan.jpg)
     ![scan操作2.png](https://raw.githubusercontent.com/halu886/legalDocument/master/legalDocument/img-folder/scan1.jpg)
